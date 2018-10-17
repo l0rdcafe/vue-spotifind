@@ -16,7 +16,6 @@
     "@vue/cli-plugin-eslint": "^3.0.5",
     "@vue/cli-service": "^3.0.5",
     "@vue/eslint-config-prettier": "^3.0.5",
-    "vue-gh-pages": "^1.19.0",
     "vue-template-compiler": "^2.5.17"
   }
 }
