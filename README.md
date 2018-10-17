@@ -1,26 +1,3 @@
 # vue-spotifind
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+Vue.js SpotiFind application using OAuth Spotify sign in to fetch information about currently playing session and annotations from Rap Genius API. Bootstrapped with `vue-cli@3.0.5`.
